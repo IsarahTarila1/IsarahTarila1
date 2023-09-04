@@ -5,3 +5,6 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 
 ## Skill and Experience
 *💻JAVA, KOTLIN
+
+## Examples of works
+<img src="https://github.com/IsarahTarila1/IsarahTarila1/blob/main/computer.gif"width="256"/>
