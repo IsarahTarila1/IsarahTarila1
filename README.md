@@ -6,7 +6,7 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 ## Skill and Experience
 *💻JAVA, KOTLIN
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsarahTarila)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsarahTarila1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Examples of works
 <img src="https://github.com/IsarahTarila1/IsarahTarila1/blob/main/computer.gif" width="256" image/>
