@@ -8,3 +8,5 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 
 ## Examples of works
 (https://github.com/IsarahTarila1/IsarahTarila1/blob/main/computer.gif)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IsarahTarila1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TarilaIsarah/)  
