@@ -7,4 +7,4 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 *💻JAVA, KOTLIN
 
 ## Examples of works
-<img src="https://github.com/IsarahTarila1/IsarahTarila1/blob/main/computer.gif"width="256"/>
+(https://github.com/IsarahTarila1/IsarahTarila1/blob/main/computer.gif)
