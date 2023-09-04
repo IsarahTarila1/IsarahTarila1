@@ -11,4 +11,3 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 ## Examples of works
 <img src="https://github.com/IsarahTarila1/IsarahTarila1/blob/main/computer.gif" width="256" image/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IsarahTarila1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tarila-isarah-534991287//)  
