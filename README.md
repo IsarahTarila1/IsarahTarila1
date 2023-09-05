@@ -6,10 +6,22 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 ## Skill and Experience
 *💻JAVA, KOTLIN
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsarahTarila1)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsarahTarila1&layout=compact)
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=IsarahTarila1&show_icons=true&theme=radical"/>
 
-## Examples of works
-<img src="https://github.com/IsarahTarila1/IsarahTarila1/blob/main/computer.gif" width="256" image/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsarahTarila1&layout=compact"/>
 
+
+## Most useful Languages
+
+##  My Tools
+### I am proficient in these languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Operating system I work with
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Database i am familiar with
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
