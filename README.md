@@ -6,6 +6,7 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 ![](https://komarev.com/ghpvc/?username=IsarahTarila1)
 
 <img src="https://github-profile-trophy.vercel.app/?username=IsarahTarila1&column=6&margin-w=15&margin-h=15" alt="GitHub Profile Trophy">
+
 ## Skill and Experience
 *💻JAVA, KOTLIN
 
