@@ -13,7 +13,7 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 
 <img src="https://github-readme-stats.vercel.app/api?username=IsarahTarila1&show_icons=true"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsarahTarila1&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsarahTarila1&layout=compact"/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsarahTarila1)
 
