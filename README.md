@@ -29,3 +29,17 @@ I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my
 
 ### Database i am familiar with
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+## Development Environments
+
+I primarily work with the following Integrated Development Environments (IDEs):
+
+ ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+- **Android Studio:**
+Android Studio is my go-to IDE for Android app development. It provides a powerful set of tools for building Android applications. You can learn more about it [here](https://developer.android.com/studio).
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- **IntelliJ IDEA:** 
+  IntelliJ IDEA is another IDE I use extensively, especially for Java and Kotlin development. Its intelligent code analysis and productivity-boosting features make it an excellent choice for software development. Explore IntelliJ IDEA [here](https://www.jetbrains.com/idea/).
+
+
