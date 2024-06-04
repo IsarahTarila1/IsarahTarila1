@@ -1,7 +1,7 @@
 
 ### Hi there 👋, My name Isarah Tarila
-#### Diving into the Digital Realm: Exploring the World of Android Development.
-I'm Tarila, an up-and-coming Android developer from Nigeria, currently honing my skills while pursuing my education. My passion for technology and love for creative problem-solving has led me down the path of app development, and I'm excited to showcase my work and abilities through this portfolio. Get ready for a glimpse into my technical know-how and creative vision!
+#### Diving into the Digital Realm: Exploring the World of Mobile Development.
+I'm Tarila, an up-and-coming Mobile developer from Nigeria, currently honing my skills while pursuing my education. My passion for technology and love for creative problem-solving has led me down the path of app development, and I'm excited to showcase my work and abilities through this portfolio. Get ready for a glimpse into my technical know-how and creative vision!
 
 ![](https://komarev.com/ghpvc/?username=IsarahTarila1)
 
