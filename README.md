@@ -1,14 +1,14 @@
 
 ### Hi there 👋, My name Isarah Tarila
 #### Diving into the Digital Realm: Exploring the World of Mobile Development.
-I'm Tarila, an up-and-coming Mobile developer from Nigeria, currently honing my skills while pursuing my education. My passion for technology and love for creative problem-solving has led me down the path of app development, and I'm excited to showcase my work and abilities through this portfolio. Get ready for a glimpse into my technical know-how and creative vision!
+I'm Tarila, a Mobile developer from Nigeria, currently honing my skills while pursuing my education. My passion for technology and love for creative problem-solving has led me down the path of app development, and I'm excited to showcase my work and abilities through this portfolio. Get ready for a glimpse into my technical know-how and creative vision!
 
 ![](https://komarev.com/ghpvc/?username=IsarahTarila1)
 
 <img src="https://github-profile-trophy.vercel.app/?username=IsarahTarila1&column=6&margin-w=15&margin-h=15" alt="GitHub Profile Trophy">
 
 ## Skill and Experience
-*💻JAVA, KOTLIN
+*💻JAVA, KOTLIN, DART, FIREBASE, SUPABASE, NODEJS, MONGODB
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=IsarahTarila1&show_icons=true"/>
